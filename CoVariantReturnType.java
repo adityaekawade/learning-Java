@@ -16,7 +16,7 @@ class B extends A {
         System.out.println("B");
     }
     
-    A m1() {
+    A m1() {     //Even if the method is B m1(), it will be same as A m1(), because there is "IS-A" relation between Class A & B, since A is extended by B. 
         return new B();
     }
     
