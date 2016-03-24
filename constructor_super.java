@@ -59,7 +59,7 @@ class D11 extends C11 {
 
 class App {
     public static void main(String[] args) {
-        D11 d = new D11();
+        D11 d = new D11(); //Creates object of class D11
     }
 }
 
