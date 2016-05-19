@@ -7,3 +7,5 @@ Try and Catch: https://github.com/adityaekawade/learning-Java/blob/master/TryAnd
 Try, Catch , Finally: https://github.com/adityaekawade/learning-Java/blob/master/TryCatchFinally.java 
 
 Throw: https://github.com/adityaekawade/learning-Java/blob/master/ThrowProgram.java
+
+Throws: https://github.com/adityaekawade/learning-Java/blob/master/Throwsprog.java 
