@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.FileReader;
 
 
-public class TryAndCatch {
+public class TryCatchFinally {
     public static void main(String[] args) {
         try {
             File f = new File("D://file.txt");
