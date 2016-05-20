@@ -9,3 +9,7 @@ Try, Catch , Finally: https://github.com/adityaekawade/learning-Java/blob/master
 Throw: https://github.com/adityaekawade/learning-Java/blob/master/ThrowProgram.java
 
 Throws: https://github.com/adityaekawade/learning-Java/blob/master/Throwsprog.java 
+
+# Working with Files and Directories 
+
+Creating a file and directory: https://github.com/adityaekawade/learning-Java/blob/master/CreateFileAndDir.java
