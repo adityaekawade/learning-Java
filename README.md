@@ -13,3 +13,5 @@ Throws: https://github.com/adityaekawade/learning-Java/blob/master/Throwsprog.ja
 # Working with Files and Directories 
 
 Creating a file and directory: https://github.com/adityaekawade/learning-Java/blob/master/CreateFileAndDir.java
+
+Checking if file or directory is present and print the string inside the file: https://github.com/adityaekawade/learning-Java/blob/master/CheckFileAndDir.java
