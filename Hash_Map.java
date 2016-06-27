@@ -40,3 +40,27 @@ class Hash_Map {
         
     }
 } 
+
+
+/*
+Output: 
+
+All keys
+1
+2
+3
+All Values
+abc
+pqr
+xyz
+ 
+Key value pair
+1=abc
+2=pqr
+3=xyz
+ 
+1 = abc
+2 = pqr
+3 = xyz
+
+*/ 
