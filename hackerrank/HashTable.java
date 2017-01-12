@@ -1,3 +1,17 @@
+/*
+Question: Hash Tables: Ransom Note: https://www.hackerrank.com/challenges/ctci-ransom-note
+
+*/
+
+/*
+
+Logic: 
+Words from both Magazine and Note are stored in a hasmap. Then words in notemap are compared with words in magazineMap. 
+*/
+
+
+
+
 import java.util.*;
 
 public class Solution {
@@ -44,7 +58,7 @@ public class Solution {
             //int i = e.getKey();
             //System.out.println(i);
             Integer i = magazineMap.get(e.getKey()); //gets the key for the keys. e.getKey() would give the words which are the keys in this hashmap and .get() would get the keys which as seen above is 1 for all the values.
-            
+            //Used for comparing notemap with magazineMap
             if(i==null) {
                 return false;
             }
